@@ -1,3 +1,23 @@
+Hi all ...
+
+I am writing to inform you that i have successfully completed the task
+
+Link demo:
+https://ahmedeid-dev.github.io/CustomerTransaction/
+
+GitHub link:
+https://github.com/ahmedeid-dev/CustomerTransaction
+
+Back server:
+https://github.com/ahmedeid-dev/CustomerTransactionDatabase
+backEnd Json Files :{
+customers :https://ahmedeid-dev.github.io/CustomerTransactionDatabase/customers.json
+transactions :https://ahmedeid-dev.github.io/CustomerTransactionDatabase/transactions.json
+}
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
