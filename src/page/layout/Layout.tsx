@@ -25,9 +25,9 @@ export default function Layout() {
                 <h1 className="title text-center py-4 mb-10 text-white text-3xl bg-blue-400">
                     Dashboard
                 </h1>
-                <div className="children flex px-10">
+                <div className="children flex px-10 lg:flex-row md:px-0 md:flex-col sm:flex-col">
                     <div className="flex flex-col">
-                        <div className="flex gap-4">
+                        <div className="flex gap-4 lg:gap-4 md:gap-1 sm:gap-1">
                             <SearchNameField
                                 filterName={filterName}
                                 setFilterName={setFilterName}
